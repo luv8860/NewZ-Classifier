@@ -8,3 +8,7 @@ Flutter based NLP Project which classifies the news headline on the basis of thr
 - Heroku
 - Flask
 - Postman(to verify the API)
+
+##Video
+
+App:- https://drive.google.com/file/d/192ZJr91c_2CBo2Q0z3A4CvZC3yG8zW6o/view?usp=sharing
