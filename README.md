@@ -12,3 +12,7 @@ Flutter based NLP Project which classifies the news headline on the basis of thr
 ## Video
 
 App:- https://drive.google.com/file/d/192ZJr91c_2CBo2Q0z3A4CvZC3yG8zW6o/view?usp=sharing
+
+## Dataset
+
+Data:- https://machinehack.com/hackathons/predict_the_news_category_hackathon/data
